@@ -52,7 +52,7 @@ public class CeditMain extends JFrame {
 	    	UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
 	    	// UIManager.setLookAndFeel("com.sun.java.swing.plaf.motif.MotifLookAndFeel");
 
-	    } 
+	    }
 	    catch (UnsupportedLookAndFeelException e) {
 	       // handle exception
 	    }
